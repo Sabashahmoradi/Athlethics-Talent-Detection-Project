@@ -1,5 +1,6 @@
 # Athlethics-Talent-Detection-Project
 پروژه پایانی استعداد‌یابی ورزشی با داده‌های متنی و ویژگی‌های حرکتی
+
 Sprint & Track Talent Identification Project
 This repository contains the final project for a sprint & track talent identification system.
 
